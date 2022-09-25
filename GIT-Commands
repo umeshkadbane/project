@@ -1,8 +1,12 @@
 umesh.kadbane@gmail.com : F!rewall@456
 account configuration on git-bash 
 ---------------------------------
-	 git config --global umesh.kadbane "umesh.kadbane@gmail.com"
-	  git config --global umesh.kadbane "Umesh Kadbane"
+	 git config --global user.email "umesh.kadbane@gmail.com"
+	 git config --global user.email ==> to check the global user email login
+	  git config --global user.name "Umesh Kadbane"  ==> check global user name
+	  git config user.name ==> to check the local user name
+	  git congfig user.email ==> to check the local user email login
+	  
 
 git help --> it show ferquently used command list
 
