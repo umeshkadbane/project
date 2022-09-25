@@ -1,0 +1,41 @@
+umesh.kadbane@gmail.com : F!rewall@456
+account configuration on git-bash 
+---------------------------------
+	 git config --global umesh.kadbane "umesh.kadbane@gmail.com"
+	  git config --global umesh.kadbane "Umesh Kadbane"
+
+git help --> it show ferquently used command list
+
+git help <cmd-name> --> it provides the documentation of the command
+
+git init --> it is used to create new repo or initialise the existing repository
+
+git status --> this command will display status of current directory	
+ Staggedtagged files 
+ -------------------
+ >File which are added and they are ready to commit.
+ > These files names will be displayed in green color
+ 
+ Un-stagged-stagged files
+ -------------------------
+ > Modiofied files will be dispalayed here, we need to stage these file to commit
+ > These file names will be displayed in red color
+ 
+ 
+ Un-stagged-staggedn-trcaked files
+ --------------------
+ > Newly created files we nee to stage them to commit
+ > these file names also dispalayed in red color
+ 
+git add : This command is used to add file to stage area
+	 Syntax : git add <file-name>
+	 Syntax: got add --a  ====> to add all files at a time
+	 
+git rm : This command is used to un-stage newly created file 
+	 Syntax : git rm --cached <file-name>
+	 Syntax : git rm --cached *  ===> this commnad will un-stage all files in that folder (repo)
+	 
+git commit : 
+	 
+	 
+ 
